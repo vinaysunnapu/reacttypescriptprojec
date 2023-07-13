@@ -1,0 +1,19 @@
+.list-item{
+    list-style-type:none;
+    background-color:blanchedalmond;
+    width:400px;
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+    margin-top:5px;
+    padding-left:5px;
+    padding-right:5px;
+
+}
+.del-button{
+    background-color:red;
+    border:none;
+    padding:5px;
+    color:white;
+   
+}
